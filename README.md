@@ -127,6 +127,6 @@ Open auth.js in the project root and replace 'thisisasecretformyapp' with a secu
 
 ## Purpose
 
-The Task Manager Application addresses the need for a reliable, user-centric task management solution. Whether you're an individual striving for personal organization or a team collaborating on projects, this application offers a versatile platform to simplify your workflow, prioritize tasks effectively, and elevate your overall productivity. With secure authentication, intuitive features, and a robust codebase, our application is built to empower users on their journey towards success.
+The Task Manager Application addresses the need for a reliable, user-centric task management solution. </br> Whether you're an individual striving for personal organization or a team collaborating on projects, this application offers a versatile platform to simplify your workflow, prioritize tasks effectively, and elevate your overall productivity. With secure authentication, intuitive features, and a robust codebase, our application is built to empower users on their journey towards success.
 
 
