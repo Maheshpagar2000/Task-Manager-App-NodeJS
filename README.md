@@ -1,4 +1,4 @@
-# Task-Manager-App-NodeJS
+# Task-Manager-App-NodeJS🚀
 Master your day with the Task Manager Application: Elevate your productivity, streamline your tasks, and conquer your to-do list effortlessly. Experience a new level of efficiency and organization, ensuring every goal becomes a triumph
 
 ## Table of Contents
