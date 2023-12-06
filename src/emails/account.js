@@ -34,7 +34,7 @@ async function sendCancellationEmail(email,name) {
 });
 
 const mailOptions = {
-    from: 'pagarmaheshofficial@gmail.com',
+    from: 'xxxxxxxxxxxxxxxx@gmail.com',
     to: email,
     subject: 'Sorrry to inform You..',
     text: `Lets stop to mailing you, ${name}.`
