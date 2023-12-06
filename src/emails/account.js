@@ -3,14 +3,14 @@ const nodemailer = require('nodemailer');
 async function sendWelcomeEmail(email, name) {
   const transporter = nodemailer.createTransport({
     service: 'gmail',
-    auth: {
-      user: 'pagarmaheshofficial@gmail.com',
-      pass: 'eytcgfsoelmnthqz',
+    auth: { 
+      user: 'xxxxxxxxxxxxxxxx@gmail.com',
+      pass: 'xxxxxxxxxxxxxxxx'
     }
 });
 
 const mailOptions = {
-    from: 'pagarmaheshofficial@gmail.com',
+    from: 'xxxxxxxxxxxxxxxx@gmail.com',
     to: email,
     subject: 'Thanks for contacting me!!',
     text: `Welcome to the App, ${name}. Let me know how I can assist you!`
@@ -28,8 +28,8 @@ async function sendCancellationEmail(email,name) {
     const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-      user: 'pagarmaheshofficial@gmail.com',
-      pass: 'eytcgfsoelmnthqz',
+      user: 'xxxxxxxxxxxxxxxx@gmail.com',
+      pass: 'xxxxxxxxxxxxxxxx'
     }
 });
 
