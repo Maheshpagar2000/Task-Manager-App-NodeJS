@@ -54,77 +54,79 @@ Open auth.js in the project root and replace 'thisisasecretformyapp' with a secu
 
 ### Task Organization
 
-- **Intuitive Task Creation:**
-  - Effortless task creation for seamless organization.
-- **Categorization:**
-  - Ability to categorize tasks for better structuring.
+- Intuitive Task Creation
+  Effortless task creation for seamless organization.
+- Categorization
+  Ability to categorize tasks for better structuring.
 
-- **Prioritization:**
-  - Options for prioritizing tasks to optimize time management.
+- Prioritization
+  Options for prioritizing tasks to optimize time management.
 
 ### User Authentication
 
-- **Secure Authentication:**
-  - Implementation of JWT for secure user authentication.
-- **Data Privacy:**
-  - Safeguarding user data to ensure privacy and security.
+- Secure Authentication
+  Implementation of JWT for secure user authentication.
+- Data Privacy
+  Safeguarding user data to ensure privacy and security.
 
 ### Email Notifications
 
-- **Welcome and Cancellation Emails:**
-  - Personalized emails for users joining or leaving the platform.
-- **Nodemailer Integration:**
-  - Seamless integration with Nodemailer for efficient communication.
+- Welcome and Cancellation Emails
+  Personalized emails for users joining or leaving the platform.
+- Nodemailer Integration
+  Seamless integration with Nodemailer for efficient communication.
 
 ### User and Task Models
 
-- **Mongoose Models:**
-  - Robust user and task data management using Mongoose.
-- **User-Task Relationship:**
-  - Establishing a relationship between users and tasks for a cohesive organizational structure.
+- Mongoose Models
+  Robust user and task data management using Mongoose.
+- User-Task Relationship
+  Establishing a relationship between users and tasks for a cohesive organizational structure.
 
 ### Express Routers
 
-- **User and Task Routers:**
-  - Individual routers for clean and modular code.
-- **Handling Various Routes:**
-  - Management of diverse routes for a complete user experience.
+- User and Task Routers
+  Individual routers for clean and modular code.
+- Handling Various Routes
+  Management of diverse routes for a complete user experience.
 
 ### Middleware for Authorization
 
-- **JWT-Based Authentication Middleware (auth.js):**
-  - Ensuring secure access through JWT.
-- **Route Protection:**
-  - Protecting routes to ensure only authorized user interactions.
+- JWT-Based Authentication Middleware (auth.js)
+  Ensuring secure access through JWT.
+- Route Protection
+  Protecting routes to ensure only authorized user interactions.
 
 ### File Upload and Processing
 
-- **Multer and Sharp Integration:**
-  - Management of user avatars through Multer and Sharp.
-- **Enhancing User Profiles:**
-  - Enriching user profiles with image uploads and processing.
+- Multer and Sharp Integration
+  Management of user avatars through Multer and Sharp.
+- Enhancing User Profiles
+  Enriching user profiles with image uploads and processing.
 
 ### Dynamic Task Retrieval
 
-- **Dynamic Retrieval:**
-  - Task retrieval based on user preferences and parameters.
-- **Customizable Options:**
-  - Sorting and filtering options for an adaptable user experience.
+- Dynamic Retrieval
+  Task retrieval based on user preferences and parameters.
+- Customizable Options
+  Sorting and filtering options for an adaptable user experience.
 
 ### Graceful Error Handling
 
-- **Throughout the Application:**
-  - Implementation of graceful error handling.
-- **Meaningful Error Messages:**
-  - Enhancing user experience by providing meaningful error messages.
+- Throughout the Application:
+  Implementation of graceful error handling.
+- Meaningful Error Messages:
+  Enhancing user experience by providing meaningful error messages.
 
 ### Code Structure
 
-- **Clear Organization:**
-  - Clear code structure for improved maintainability.
-- **Readme Explanation:**
-  - Detailed explanation of the purpose and functionality of each file in the README.
+- Clear Organization
+  Clear code structure for improved maintainability.
+- Readme Explanation
+  Detailed explanation of the purpose and functionality of each file in the README.
 
 ## Purpose
 
 The Task Manager Application addresses the need for a reliable, user-centric task management solution. Whether you're an individual striving for personal organization or a team collaborating on projects, this application offers a versatile platform to simplify your workflow, prioritize tasks effectively, and elevate your overall productivity. With secure authentication, intuitive features, and a robust codebase, our application is built to empower users on their journey towards success.
+
+
